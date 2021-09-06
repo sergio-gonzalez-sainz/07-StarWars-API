@@ -1,0 +1,12 @@
+body
+{
+    background: url('./img/star-wars-background.jpg') no-repeat center/cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+button-words
+{
+    color: #1883ba;
+    background-color: #ffffff;
+}
